@@ -1,0 +1,19 @@
+div{
+    background-color: #EEE;
+    padding: 20px;
+    margin :20px auto;
+    font-size: 20px;
+    width: 400px;
+    
+}
+.c1{
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 100px solid #EEE;
+    width:298px;
+}
+.c2{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
